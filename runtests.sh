@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "Run tests"
+echo "Run test as Marine Pro"
