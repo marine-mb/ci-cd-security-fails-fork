@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo "Run test suite as Paul"
+echo "Run test suite as Marine Perso"
 
