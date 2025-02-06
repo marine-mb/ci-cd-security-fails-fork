@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "Run test as Marine Pro"
+echo "Run test as Paul"
