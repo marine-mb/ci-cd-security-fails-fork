@@ -1,3 +1,4 @@
 #!/bin/sh
 
-echo "Run tests"
+echo "Run test suite"
+
